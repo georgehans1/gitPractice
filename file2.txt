@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi george
+=======
+function(a,b){
+ return a+b;
+}
+>>>>>>> f3d068b (function added)
